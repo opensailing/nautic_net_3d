@@ -2,6 +2,8 @@
 
 These models are for the [nautic_net_tracker_mini](https://github.com/opensailing/nautic_net_tracker_mini) project.
 
+- [Complete bill of materials (BOM)](https://docs.google.com/spreadsheets/d/1jJtqCXdVjNEBQItSUcRA3xywMBTXkUF72Dwi1-fd_us/edit#gid=0)
+
 ## Mast clamp
 
 Three parts: front of clamp, rear of clamp, and mount that attaches to the ML-24F enclosure.

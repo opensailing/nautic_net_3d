@@ -17,3 +17,9 @@ Adapts an Adafruit Feather to the ML-24F enclosure.
 
 - [4-24 x 1/4" screws to attach sled to enclosure](https://www.polycase.com/screws-mbr-100)
 - [M2.5 X 6mm screws to attach Feather to sled](https://www.amazon.com/dp/B07CHH9Q3X?ref=ppx_yo2ov_dt_b_product_details&th=1)
+
+![images/photo1.jpg](images/photo1.jpg)
+
+![images/photo2.jpg](images/photo2.jpg)
+
+![images/photo3.jpg](images/photo3.jpg)

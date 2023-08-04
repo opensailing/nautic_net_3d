@@ -1,3 +1,3 @@
 # NauticNet Mini Uplink Node
 
-todo
+![images/photo1.jpg](images/photo1.jpg)
